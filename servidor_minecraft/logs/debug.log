@@ -599,3 +599,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04May2025 21:39:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 joined the game
 [04May2025 21:39:19.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AtroxX6 lost connection: Disconnected
 [04May2025 21:39:19.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 left the game
+[04May2025 21:43:47.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 21:43:47.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 21:48:47.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 21:48:47.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
