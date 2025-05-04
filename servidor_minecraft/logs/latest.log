@@ -103,3 +103,13 @@
 [04May2025 21:39:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 joined the game
 [04May2025 21:39:19.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AtroxX6 lost connection: Disconnected
 [04May2025 21:39:19.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 left the game
+[04May2025 23:06:51.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04May2025 23:06:51.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04May2025 23:06:51.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04May2025 23:06:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04May2025 23:06:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04May2025 23:06:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04May2025 23:06:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04May2025 23:06:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04May2025 23:06:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04May2025 23:06:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
