@@ -595,6 +595,7 @@
       "cooked_porkchop": "2025-05-18 02:29:17 +0000",
       "cooked_mutton": "2025-05-18 02:29:59 +0000",
       "cooked_beef": "2025-05-18 03:30:57 +0000",
+      "golden_apple": "2025-05-18 19:21:47 +0000",
       "carrot": "2025-05-18 05:39:54 +0000"
     },
     "done": false
@@ -3658,9 +3659,33 @@
     },
     "done": true
   },
+  "spartanshields:recipes/silver_tower_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_saber": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-18 19:08:49 +0000"
     },
     "done": true
   },
@@ -3688,9 +3713,57 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_flanged_mace": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_quarterstaff": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battle_hammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_javelin": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_boomerang": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_heavy_crossbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_spear": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
     },
     "done": true
   },
@@ -3703,6 +3776,18 @@
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2025-05-18 19:08:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
     },
     "done": true
   },
@@ -3730,9 +3815,21 @@
     },
     "done": true
   },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-05-18 19:22:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_warhammer": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
     },
     "done": true
   },
@@ -3760,6 +3857,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_halberd": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:25 +0000"
@@ -3769,6 +3872,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-05-18 19:00:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_throwing_knife": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
     },
     "done": true
   },
@@ -3796,15 +3905,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-18 19:08:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:25 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_glaive": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-05-18 19:22:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_battleaxe": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
     },
     "done": true
   },
@@ -3820,15 +3953,57 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_lance": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-18 19:08:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2025-05-18 19:06:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_rapier": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
     },
     "done": true
   },
@@ -3850,15 +4025,63 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_longbow": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_greatsword": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-05-18 19:08:49 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/silver_basic_shield": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:26 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/silver_katana": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_tomahawk": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_pike": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
     },
     "done": true
   },
@@ -3895,6 +4118,24 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-18 18:59:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-18 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_scythe": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_parrying_dagger": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-18 19:12:43 +0000"
     },
     "done": true
   },

@@ -214,3 +214,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 19:05:13.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set Doffe's game mode to Survival Mode]
 [18May2025 19:08:16.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Spectator Mode]
 [18May2025 19:08:32.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Survival Mode]
+[18May2025 19:11:01.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doffe lost connection: Disconnected
+[18May2025 19:11:01.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe left the game
+[18May2025 19:11:35.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doffe[/172.29.160.205:58428] logged in with entity id 8489 at (179.75111286678424, -54.0, 2726.4853949367894)
+[18May2025 19:11:35.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe joined the game
+[18May2025 19:12:25.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 19:16:48.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AtroxX6> xxx
+[18May2025 19:16:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> zzz
+[18May2025 19:16:53.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> zz
+[18May2025 19:16:53.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> zz
+[18May2025 19:16:53.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> zz
+[18May2025 19:16:53.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:54.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:54.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:54.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:54.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:54.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:55.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:55.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> zz
+[18May2025 19:16:55.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:55.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:55.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:55.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AtroxX6> xxx
+[18May2025 19:16:55.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:56.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> zz
+[18May2025 19:16:56.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:56.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:56.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:56.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:56.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:16:58.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> z
+[18May2025 19:19:09.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 261.500000, -33.500000, 2411.500000]
+[18May2025 19:19:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 19:23:34.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
+[18May2025 19:23:43.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 19:25:54.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Reaping What You Sow]
+[18May2025 19:27:41.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Cover Me with Diamonds]
+[18May2025 19:27:54.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Cover Me with Diamonds]
+[18May2025 19:28:04.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Doffe
+[18May2025 19:28:29.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Into Fire]
+[18May2025 19:29:46.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Enchanter]
