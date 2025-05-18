@@ -597,6 +597,7 @@
       "cooked_mutton": "2025-05-18 02:29:59 +0000",
       "cooked_beef": "2025-05-18 03:30:57 +0000",
       "golden_apple": "2025-05-18 19:21:47 +0000",
+      "bread": "2025-05-18 20:29:13 +0000",
       "carrot": "2025-05-18 05:39:54 +0000"
     },
     "done": false
@@ -4173,6 +4174,12 @@
   "spartanweaponry:scythe": {
     "criteria": {
       "has_scythe": "2025-05-18 20:20:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "has_javelin": "2025-05-18 20:29:27 +0000"
     },
     "done": true
   },
