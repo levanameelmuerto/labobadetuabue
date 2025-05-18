@@ -1,115 +1,324 @@
-[04May2025 21:33:02.559] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[04May2025 21:33:02.563] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[04May2025 21:33:02.645] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/labobadetuabue/servidor_minecraft/config/fml.toml is not correct. Correcting
-[04May2025 21:33:02.647] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[04May2025 21:33:02.648] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[04May2025 21:33:02.648] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[04May2025 21:33:02.649] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[04May2025 21:33:02.665] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[04May2025 21:33:02.708] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/labobadetuabue/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04May2025 21:33:02.917] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[04May2025 21:33:02.918] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04May2025 21:33:02.920] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04May2025 21:33:02.921] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04May2025 21:33:03.015] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[04May2025 21:33:04.436] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[04May2025 21:33:10.258] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[04May2025 21:33:10.262] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[04May2025 21:33:10.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04May2025 21:33:11.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[04May2025 21:33:11.938] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04May2025 21:33:11.977] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[04May2025 21:33:11.978] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[04May2025 21:33:13.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[04May2025 21:33:14.004] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[04May2025 21:33:14.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[04May2025 21:33:14.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04May2025 21:33:14.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04May2025 21:33:14.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04May2025 21:33:14.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04May2025 21:33:14.741] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04May2025 21:33:14.825] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04May2025 21:33:14.826] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04May2025 21:33:14.826] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04May2025 21:33:14.827] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04May2025 21:33:14.859] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[04May2025 21:33:14.860] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[04May2025 21:33:14.861] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[04May2025 21:33:14.861] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[04May2025 21:33:14.862] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[04May2025 21:33:14.862] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[04May2025 21:33:14.863] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[04May2025 21:33:14.863] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[04May2025 21:33:14.864] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[04May2025 21:33:14.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04May2025 21:33:21.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04May2025 21:33:22.369] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04May2025 21:33:22.370] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04May2025 21:33:22.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04May2025 21:33:22.655] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04May2025 21:33:23.101] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04May2025 21:33:23.609] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04May2025 21:33:24.107] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[04May2025 21:33:24.615] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[04May2025 21:33:25.108] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[04May2025 21:33:25.608] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[04May2025 21:33:26.103] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[04May2025 21:33:26.636] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[04May2025 21:33:27.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[04May2025 21:33:27.607] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
-[04May2025 21:33:28.106] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[04May2025 21:33:28.613] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[04May2025 21:33:29.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[04May2025 21:33:29.601] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[04May2025 21:33:30.102] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[04May2025 21:33:30.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[04May2025 21:33:31.108] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[04May2025 21:33:31.601] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[04May2025 21:33:32.107] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[04May2025 21:33:32.606] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
-[04May2025 21:33:33.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[04May2025 21:33:34.573] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[04May2025 21:33:34.574] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[04May2025 21:33:34.637] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[04May2025 21:33:35.100] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
-[04May2025 21:33:35.638] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[04May2025 21:33:36.100] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[04May2025 21:33:36.603] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[04May2025 21:33:37.107] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[04May2025 21:33:37.608] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
-[04May2025 21:33:38.126] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[04May2025 21:33:38.603] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[04May2025 21:33:39.101] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[04May2025 21:33:39.612] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
-[04May2025 21:33:40.107] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[04May2025 21:33:40.604] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[04May2025 21:33:41.107] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[04May2025 21:33:41.600] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[04May2025 21:33:42.102] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[04May2025 21:33:42.608] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
-[04May2025 21:33:43.107] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
-[04May2025 21:33:43.618] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
-[04May2025 21:33:44.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[04May2025 21:33:44.601] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[04May2025 21:33:45.104] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[04May2025 21:33:45.603] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
-[04May2025 21:33:46.103] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[04May2025 21:33:46.610] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[04May2025 21:33:47.103] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
-[04May2025 21:33:47.167] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26067 ms
-[04May2025 21:33:47.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.318s)! For help, type "help"
-[04May2025 21:33:47.188] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04May2025 21:39:06.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AtroxX6[/172.29.209.62:50513] logged in with entity id 213 at (-246.5, 73.0, 54.5)
-[04May2025 21:39:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 joined the game
-[04May2025 21:39:19.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AtroxX6 lost connection: Disconnected
-[04May2025 21:39:19.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 left the game
-[04May2025 23:06:51.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04May2025 23:06:51.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04May2025 23:06:51.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04May2025 23:06:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04May2025 23:06:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04May2025 23:06:54.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04May2025 23:06:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04May2025 23:06:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04May2025 23:06:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04May2025 23:06:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18May2025 02:24:22.604] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18May2025 02:24:22.608] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[18May2025 02:24:22.862] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18May2025 02:24:22.918] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/labobadetuabue/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18May2025 02:24:23.211] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[18May2025 02:24:23.213] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18May2025 02:24:23.214] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18May2025 02:24:23.216] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18May2025 02:24:23.369] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[18May2025 02:24:25.362] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18May2025 02:24:25.377] [main/ERROR] [mixin/]: Mixin config creaturesofruneterra.mixin.json does not specify "minVersion" property
+[18May2025 02:24:25.413] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18May2025 02:24:25.488] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.mixins.json could not be read. If this is a development environment you can ignore this message
+[18May2025 02:24:25.489] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18May2025 02:24:32.058] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/labobadetuabue/servidor_minecraft/config/ironfurnaces-client.toml is not correct. Correcting
+[18May2025 02:24:32.059] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.060] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.energy was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.064] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.energy.tier_0 was corrected from null to its default, 80000. 
+[18May2025 02:24:32.064] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.energy.tier_1 was corrected from null to its default, 200000. 
+[18May2025 02:24:32.064] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.energy.tier_2 was corrected from null to its default, 1000000. 
+[18May2025 02:24:32.064] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.iron_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.065] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.iron_furnace.tier was corrected from null to its default, 0. 
+[18May2025 02:24:32.067] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.iron_furnace.speed was corrected from null to its default, 160. 
+[18May2025 02:24:32.067] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.iron_furnace.generation was corrected from null to its default, 40. 
+[18May2025 02:24:32.067] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.copper_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.067] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.copper_furnace.tier was corrected from null to its default, 0. 
+[18May2025 02:24:32.068] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.copper_furnace.speed was corrected from null to its default, 180. 
+[18May2025 02:24:32.068] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.copper_furnace.generation was corrected from null to its default, 40. 
+[18May2025 02:24:32.068] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.gold_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.069] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.gold_furnace.tier was corrected from null to its default, 1. 
+[18May2025 02:24:32.069] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.gold_furnace.speed was corrected from null to its default, 120. 
+[18May2025 02:24:32.069] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.gold_furnace.generation was corrected from null to its default, 160. 
+[18May2025 02:24:32.072] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.diamond_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.072] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.diamond_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.072] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.diamond_furnace.speed was corrected from null to its default, 80. 
+[18May2025 02:24:32.072] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.diamond_furnace.generation was corrected from null to its default, 240. 
+[18May2025 02:24:32.073] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.emerald_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.073] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.emerald_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.073] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.emerald_furnace.speed was corrected from null to its default, 40. 
+[18May2025 02:24:32.073] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.emerald_furnace.generation was corrected from null to its default, 320. 
+[18May2025 02:24:32.076] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.silver_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.076] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.silver_furnace.tier was corrected from null to its default, 1. 
+[18May2025 02:24:32.076] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.silver_furnace.speed was corrected from null to its default, 140. 
+[18May2025 02:24:32.076] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.silver_furnace.generation was corrected from null to its default, 100. 
+[18May2025 02:24:32.077] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.crystal_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.077] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.crystal_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.077] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.crystal_furnace.speed was corrected from null to its default, 40. 
+[18May2025 02:24:32.077] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.crystal_furnace.generation was corrected from null to its default, 360. 
+[18May2025 02:24:32.080] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.obsidian_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.080] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.obsidian_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.080] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.obsidian_furnace.speed was corrected from null to its default, 20. 
+[18May2025 02:24:32.081] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.obsidian_furnace.generation was corrected from null to its default, 500. 
+[18May2025 02:24:32.083] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.netherite_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.085] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.netherite_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.085] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.netherite_furnace.speed was corrected from null to its default, 5. 
+[18May2025 02:24:32.085] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.netherite_furnace.generation was corrected from null to its default, 1000. 
+[18May2025 02:24:32.086] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.million_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.086] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.million_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.086] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.recipe_cache was corrected from null to its default, 10. 
+[18May2025 02:24:32.086] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.rainbow_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.086] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.rainbow_furnace.speed was corrected from null to its default, 20. 
+[18May2025 02:24:32.087] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.rainbow_furnace.rainbow_generation was corrected from null to its default, 50000. 
+[18May2025 02:24:32.087] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.rainbow_furnace.generation was corrected from null to its default, 2000. 
+[18May2025 02:24:32.089] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.recipeMaxXPLevel was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.089] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key furnaces.recipeMaxXPLevel.level was corrected from null to its default, 100. 
+[18May2025 02:24:32.104] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.107] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.allthemodium_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.107] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.allthemodium_furnace.speed was corrected from null to its default, 5. 
+[18May2025 02:24:32.107] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.allthemodium_furnace.mult was corrected from null to its default, 16. 
+[18May2025 02:24:32.107] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.allthemodium_furnace.generation was corrected from null to its default, 2000. 
+[18May2025 02:24:32.108] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.allthemodium_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.108] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.vibranium_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.108] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.vibranium_furnace.speed was corrected from null to its default, 3. 
+[18May2025 02:24:32.108] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.vibranium_furnace.mult was corrected from null to its default, 32. 
+[18May2025 02:24:32.108] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.vibranium_furnace.generation was corrected from null to its default, 3000. 
+[18May2025 02:24:32.109] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.vibranium_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.unobtainium_furnace was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.unobtainium_furnace.speed was corrected from null to its default, 1. 
+[18May2025 02:24:32.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.unobtainium_furnace.mult was corrected from null to its default, 64. 
+[18May2025 02:24:32.113] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.unobtainium_furnace.generation was corrected from null to its default, 5000. 
+[18May2025 02:24:32.114] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modded_furnaces.unobtainium_furnace.tier was corrected from null to its default, 2. 
+[18May2025 02:24:32.124] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key jei was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.124] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key jei.jei was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.124] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key jei.jei.enable_jei was corrected from null to its default, true. 
+[18May2025 02:24:32.124] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key jei.jei.enable_jei_catalysts was corrected from null to its default, true. 
+[18May2025 02:24:32.125] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key jei.jei.enable_jei_click_area was corrected from null to its default, true. 
+[18May2025 02:24:32.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.134] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.134] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.misc.rainbow was corrected from null to its default, true. 
+[18May2025 02:24:32.134] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.misc.errors was corrected from null to its default, false. 
+[18May2025 02:24:32.135] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.misc.web was corrected from null to its default, false. 
+[18May2025 02:24:32.136] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.misc.lightupdates was corrected from null to its default, false. 
+[18May2025 02:24:32.142] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key updates was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.143] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key updates.check_updates was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:32.143] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key updates.check_updates.updates was corrected from null to its default, true. 
+[18May2025 02:24:32.155] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[18May2025 02:24:32.157] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[18May2025 02:24:32.217] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[18May2025 02:24:32.217] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[18May2025 02:24:32.314] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[18May2025 02:24:32.862] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[18May2025 02:24:32.862] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[18May2025 02:24:33.616] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.eximeisty.creaturesofruneterra.entity.custom.PoroEntity from class com.eximeisty.creaturesofruneterra.entity.custom.ExaltedPoroEntity
+[18May2025 02:24:33.616] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.eximeisty.creaturesofruneterra.entity.custom.PoroEntity from class com.eximeisty.creaturesofruneterra.entity.custom.ExaltedPoroEntity
+[18May2025 02:24:33.617] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.eximeisty.creaturesofruneterra.entity.custom.PoroEntity from class com.eximeisty.creaturesofruneterra.entity.custom.ExaltedPoroEntity
+[18May2025 02:24:33.618] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.eximeisty.creaturesofruneterra.entity.custom.FiddlesticksEntity from class com.eximeisty.creaturesofruneterra.entity.custom.FiddleDummyEntity
+[18May2025 02:24:33.620] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.klikli_dev.occultism.common.entity.spirit.DjinniEntity from class com.klikli_dev.occultism.common.entity.spirit.FoliotEntity
+[18May2025 02:24:33.684] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/labobadetuabue/servidor_minecraft/config/golems-common.toml is not correct. Correcting
+[18May2025 02:24:33.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18May2025 02:24:33.685] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.bedrock_golem_creative_only was corrected from null to its default, true. 
+[18May2025 02:24:33.686] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.pumpkin_builds_golems was corrected from null to its default, false. 
+[18May2025 02:24:33.687] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.friendly_fire was corrected from null to its default, false. 
+[18May2025 02:24:33.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.use_spell was corrected from null to its default, true. 
+[18May2025 02:24:33.688] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.holidays was corrected from null to its default, true. 
+[18May2025 02:24:33.689] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.villager_summon_chance was corrected from null to its default, 60. 
+[18May2025 02:24:33.689] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.heal_golems was corrected from null to its default, true. 
+[18May2025 02:24:33.690] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.debug_golems_permission_level was corrected from null to its default, 2. 
+[18May2025 02:24:33.700] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18May2025 02:24:33.704] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18May2025 02:24:33.710] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18May2025 02:24:33.816] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Common setup complete.
+[18May2025 02:24:33.816] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[18May2025 02:24:33.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[18May2025 02:24:33.951] [main/INFO] [com.klikli_dev.occultism.Occultism/]: Registered compostable Items
+[18May2025 02:24:33.959] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Dedicated server setup complete.
+[18May2025 02:24:33.959] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18May2025 02:24:33.961] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18May2025 02:24:34.192] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[18May2025 02:24:34.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Starting version check at https://raw.githubusercontent.com/klikli-dev/occultism/meta/updates.json
+[18May2025 02:24:34.237] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Found status: BETA Current: 1.141.4 Target: null
+[18May2025 02:24:34.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18May2025 02:24:34.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[18May2025 02:24:35.603] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18May2025 02:24:35.796] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:iron_furnace Expected: 1020 Got: 1063
+[18May2025 02:24:35.797] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:gold_furnace Expected: 1021 Got: 1064
+[18May2025 02:24:35.798] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:diamond_furnace Expected: 1022 Got: 1065
+[18May2025 02:24:35.799] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:emerald_furnace Expected: 1023 Got: 1066
+[18May2025 02:24:35.799] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:obsidian_furnace Expected: 1024 Got: 1067
+[18May2025 02:24:35.799] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:crystal_furnace Expected: 1025 Got: 1068
+[18May2025 02:24:35.800] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:netherite_furnace Expected: 1026 Got: 1069
+[18May2025 02:24:35.801] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:copper_furnace Expected: 1027 Got: 1070
+[18May2025 02:24:35.801] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:silver_furnace Expected: 1028 Got: 1071
+[18May2025 02:24:35.802] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:allthemodium_furnace Expected: 1029 Got: 1072
+[18May2025 02:24:35.802] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:vibranium_furnace Expected: 1030 Got: 1073
+[18May2025 02:24:35.803] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:unobtainium_furnace Expected: 1031 Got: 1074
+[18May2025 02:24:35.804] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:heater Expected: 1032 Got: 1075
+[18May2025 02:24:35.804] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: ironfurnaces:million_furnace Expected: 1033 Got: 1076
+[18May2025 02:24:35.806] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:iron_furnace Expected: 1414 Got: 1704
+[18May2025 02:24:35.808] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:gold_furnace Expected: 1415 Got: 1705
+[18May2025 02:24:35.811] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:diamond_furnace Expected: 1416 Got: 1706
+[18May2025 02:24:35.811] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:emerald_furnace Expected: 1417 Got: 1707
+[18May2025 02:24:35.812] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:obsidian_furnace Expected: 1418 Got: 1708
+[18May2025 02:24:35.812] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:crystal_furnace Expected: 1419 Got: 1709
+[18May2025 02:24:35.812] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:netherite_furnace Expected: 1420 Got: 1710
+[18May2025 02:24:35.813] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:copper_furnace Expected: 1421 Got: 1711
+[18May2025 02:24:35.813] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:silver_furnace Expected: 1422 Got: 1712
+[18May2025 02:24:35.813] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_iron Expected: 1423 Got: 1713
+[18May2025 02:24:35.813] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_gold Expected: 1424 Got: 1714
+[18May2025 02:24:35.814] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_diamond Expected: 1425 Got: 1715
+[18May2025 02:24:35.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_emerald Expected: 1426 Got: 1716
+[18May2025 02:24:35.815] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_obsidian Expected: 1427 Got: 1717
+[18May2025 02:24:35.816] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_crystal Expected: 1428 Got: 1718
+[18May2025 02:24:35.817] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_netherite Expected: 1429 Got: 1719
+[18May2025 02:24:35.818] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_copper Expected: 1430 Got: 1720
+[18May2025 02:24:35.819] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_silver Expected: 1431 Got: 1721
+[18May2025 02:24:35.820] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_obsidian2 Expected: 1432 Got: 1722
+[18May2025 02:24:35.820] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_iron2 Expected: 1433 Got: 1723
+[18May2025 02:24:35.820] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_gold2 Expected: 1434 Got: 1724
+[18May2025 02:24:35.821] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_silver2 Expected: 1435 Got: 1725
+[18May2025 02:24:35.822] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:allthemodium_furnace Expected: 1436 Got: 1726
+[18May2025 02:24:35.823] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:vibranium_furnace Expected: 1437 Got: 1727
+[18May2025 02:24:35.823] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:unobtainium_furnace Expected: 1438 Got: 1728
+[18May2025 02:24:35.824] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_allthemodium Expected: 1439 Got: 1729
+[18May2025 02:24:35.825] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_vibranium Expected: 1440 Got: 1730
+[18May2025 02:24:35.826] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:upgrade_unobtainium Expected: 1441 Got: 1731
+[18May2025 02:24:35.827] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:heater Expected: 1442 Got: 1732
+[18May2025 02:24:35.827] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:item_heater Expected: 1443 Got: 1733
+[18May2025 02:24:35.828] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:augment_blasting Expected: 1444 Got: 1734
+[18May2025 02:24:35.828] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:augment_smoking Expected: 1445 Got: 1735
+[18May2025 02:24:35.829] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:augment_factory Expected: 1446 Got: 1736
+[18May2025 02:24:35.829] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:augment_generator Expected: 1447 Got: 1737
+[18May2025 02:24:35.830] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:augment_speed Expected: 1448 Got: 1738
+[18May2025 02:24:35.830] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:augment_fuel Expected: 1449 Got: 1739
+[18May2025 02:24:35.830] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:item_spooky Expected: 1450 Got: 1740
+[18May2025 02:24:35.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:item_xmas Expected: 1451 Got: 1741
+[18May2025 02:24:35.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:item_copy Expected: 1452 Got: 1742
+[18May2025 02:24:35.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:rainbow_core Expected: 1453 Got: 1743
+[18May2025 02:24:35.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:rainbow_plating Expected: 1454 Got: 1744
+[18May2025 02:24:35.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:rainbow_coal Expected: 1455 Got: 1745
+[18May2025 02:24:35.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: ironfurnaces:million_furnace Expected: 1456 Got: 1746
+[18May2025 02:24:35.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:bone_helmet Expected: 1683 Got: 1747
+[18May2025 02:24:35.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:bone_chestplate Expected: 1684 Got: 1748
+[18May2025 02:24:35.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:bone_leggings Expected: 1685 Got: 1749
+[18May2025 02:24:35.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:bone_boots Expected: 1686 Got: 1750
+[18May2025 02:24:35.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:wither_helmet Expected: 1687 Got: 1751
+[18May2025 02:24:35.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:wither_chestplate Expected: 1688 Got: 1752
+[18May2025 02:24:35.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:wither_leggings Expected: 1689 Got: 1753
+[18May2025 02:24:35.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:wither_boots Expected: 1690 Got: 1754
+[18May2025 02:24:35.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:warrior_helmet Expected: 1691 Got: 1755
+[18May2025 02:24:35.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:warrior_chestplate Expected: 1692 Got: 1756
+[18May2025 02:24:35.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:warrior_leggings Expected: 1693 Got: 1757
+[18May2025 02:24:35.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:warrior_boots Expected: 1694 Got: 1758
+[18May2025 02:24:35.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:heavy_helmet Expected: 1695 Got: 1759
+[18May2025 02:24:35.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:heavy_chestplate Expected: 1696 Got: 1760
+[18May2025 02:24:35.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:heavy_leggings Expected: 1697 Got: 1761
+[18May2025 02:24:35.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:heavy_boots Expected: 1698 Got: 1762
+[18May2025 02:24:35.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:robe_helmet Expected: 1699 Got: 1763
+[18May2025 02:24:35.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:robe_chestplate Expected: 1700 Got: 1764
+[18May2025 02:24:35.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:robe_leggings Expected: 1701 Got: 1765
+[18May2025 02:24:35.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:robe_boots Expected: 1702 Got: 1766
+[18May2025 02:24:35.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:slime_helmet Expected: 1703 Got: 1767
+[18May2025 02:24:35.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:slime_chestplate Expected: 1704 Got: 1768
+[18May2025 02:24:35.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:slime_leggings Expected: 1705 Got: 1769
+[18May2025 02:24:35.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:slime_boots Expected: 1706 Got: 1770
+[18May2025 02:24:35.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:divine_helmet Expected: 1707 Got: 1771
+[18May2025 02:24:35.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:divine_chestplate Expected: 1708 Got: 1772
+[18May2025 02:24:35.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:divine_leggings Expected: 1709 Got: 1773
+[18May2025 02:24:35.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:divine_boots Expected: 1710 Got: 1774
+[18May2025 02:24:35.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:prismarine_helmet Expected: 1711 Got: 1775
+[18May2025 02:24:35.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:prismarine_chestplate Expected: 1712 Got: 1776
+[18May2025 02:24:35.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:prismarine_leggings Expected: 1713 Got: 1777
+[18May2025 02:24:35.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:prismarine_boots Expected: 1714 Got: 1778
+[18May2025 02:24:35.842] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:wooden_helmet Expected: 1715 Got: 1779
+[18May2025 02:24:35.842] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:wooden_chestplate Expected: 1716 Got: 1780
+[18May2025 02:24:35.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:wooden_leggings Expected: 1717 Got: 1781
+[18May2025 02:24:35.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:wooden_boots Expected: 1718 Got: 1782
+[18May2025 02:24:35.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:steampunk_helmet Expected: 1719 Got: 1783
+[18May2025 02:24:35.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:steampunk_chestplate Expected: 1720 Got: 1784
+[18May2025 02:24:35.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:steampunk_leggings Expected: 1721 Got: 1785
+[18May2025 02:24:35.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: immersive_armors:steampunk_boots Expected: 1722 Got: 1786
+[18May2025 02:24:35.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: golems:golem_spell Expected: 1723 Got: 1787
+[18May2025 02:24:35.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: golems:spawn_bedrock_golem Expected: 1724 Got: 1788
+[18May2025 02:24:35.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: golems:guide_book Expected: 1725 Got: 1789
+[18May2025 02:24:35.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: golems:golem_head Expected: 1726 Got: 1790
+[18May2025 02:24:36.439] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[18May2025 02:24:36.439] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/labobadetuabue/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[18May2025 02:24:38.319] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[18May2025 02:24:38.507] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[18May2025 02:24:38.535] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[18May2025 02:24:38.552] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[18May2025 02:24:38.633] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[18May2025 02:24:38.651] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[18May2025 02:24:38.698] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1889 advancements
+[18May2025 02:24:38.805] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[18May2025 02:24:38.809] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[18May2025 02:24:39.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18May2025 02:24:39.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18May2025 02:24:39.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18May2025 02:24:39.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18May2025 02:24:39.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18May2025 02:24:39.423] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18May2025 02:24:39.508] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18May2025 02:24:39.509] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18May2025 02:24:39.509] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18May2025 02:24:39.509] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18May2025 02:24:39.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18May2025 02:24:42.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18May2025 02:24:45.583] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 02:24:45.599] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 02:24:45.599] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 02:24:45.599] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 02:24:45.600] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 02:24:45.600] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 02:24:45.601] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 02:24:45.882] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18May2025 02:24:46.382] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[18May2025 02:24:46.777] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4395 ms
+[18May2025 02:24:46.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.246s)! For help, type "help"
+[18May2025 02:24:46.806] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18May2025 02:25:01.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AtroxX6[/172.29.209.62:54613] logged in with entity id 207 at (-305.89243160982625, 64.0, 117.34853338671269)
+[18May2025 02:25:01.840] [Server thread/INFO] [Modonomicon/]: Building books ...
+[18May2025 02:25:01.848] [Server thread/INFO] [Modonomicon/]: Books built.
+[18May2025 02:25:02.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 joined the game
+[18May2025 02:26:50.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doffe[/172.29.160.205:58061] logged in with entity id 881 at (-290.69864221970846, 69.0, 103.57417691606776)
+[18May2025 02:26:50.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe joined the game
+[18May2025 02:26:57.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 02:27:49.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-267, y=66, z=463} BlockPos{x=-268, y=64, z=464}
+[18May2025 02:27:49.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-267, y=66, z=463} BlockPos{x=-268, y=64, z=464}
+[18May2025 02:27:52.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-268, y=65, z=470} BlockPos{x=-269, y=63, z=471}
+[18May2025 02:27:53.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=64, z=472} BlockPos{x=-264, y=63, z=474}
+[18May2025 02:27:53.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=64, z=472} BlockPos{x=-264, y=63, z=474}
+[18May2025 02:27:55.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-269, y=64, z=475} BlockPos{x=-271, y=63, z=475}
+[18May2025 02:28:25.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Stone Age]
+[18May2025 02:30:48.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Sweet Dreams]
+[18May2025 02:30:55.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AtroxX6 lost connection: Disconnected
+[18May2025 02:30:55.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 left the game
+[18May2025 02:31:04.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AtroxX6[/172.29.209.62:54932] logged in with entity id 2139 at (-256.69999998807907, 59.0, 461.48778470172505)
+[18May2025 02:31:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 joined the game
+[18May2025 02:37:47.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Spectator Mode]
+[18May2025 02:37:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Survival Mode]
+[18May2025 02:40:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 02:41:23.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Sweet Dreams]
+[18May2025 02:41:58.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Getting an Upgrade]
+[18May2025 02:42:29.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Xer'Sai Hatchling
+[18May2025 02:42:36.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe was slain by Xer'Sai Hatchling
+[18May2025 02:42:45.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Xer'Sai Hatchling
+[18May2025 02:42:45.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 02:44:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 02:47:09.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Spectator Mode]
+[18May2025 02:49:04.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Survival Mode]
+[18May2025 02:49:27.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doffe lost connection: Disconnected
+[18May2025 02:49:27.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe left the game
+[18May2025 02:50:22.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doffe[/172.29.160.205:59468] logged in with entity id 10866 at (399.62021310353384, 75.0, 1657.3324717098922)
+[18May2025 02:50:22.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe joined the game
+[18May2025 02:50:54.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 02:51:54.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=525, y=88, z=1959} BlockPos{x=524, y=87, z=1959}
+[18May2025 02:52:12.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AtroxX6> zzzzzzzz
+[18May2025 02:52:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> zzzzz
+[18May2025 03:03:01.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AtroxX6> xxx
+[18May2025 03:03:02.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Doffe> ZZZZ
