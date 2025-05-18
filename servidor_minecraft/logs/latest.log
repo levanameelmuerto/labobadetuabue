@@ -156,3 +156,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 20:06:52.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Survival Mode]
 [18May2025 20:07:07.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1618, l='ServerLevel[world]', x=88.50, y=82.78, z=2773.28] died, message: 'Villager was slain by Zombie'
 [18May2025 20:09:18.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AtroxX6> 35 121 2822
+[18May2025 20:12:38.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
+[18May2025 20:15:30.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
+[18May2025 20:17:16.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [A Seedy Place]
+[18May2025 20:17:34.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
+[18May2025 20:19:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to 791.500000, 51.500000, 2936.500000]
+[18May2025 20:19:47.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
+[18May2025 20:19:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Ferrous Wroughtnaut
+[18May2025 20:20:02.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
+[18May2025 20:20:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe was slain by Ferrous Wroughtnaut
+[18May2025 20:20:16.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Reaping What You Sow]
+[18May2025 20:20:18.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Ferrous Wroughtnaut
+[18May2025 20:20:24.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 786.500000, 49.500000, 2939.500000]
+[18May2025 20:20:26.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Ferrous Wroughtnaut
+[18May2025 20:20:26.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to 779.500000, 49.500000, 2939.500000]
+[18May2025 20:20:32.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 781.500000, 49.500000, 2939.500000]
+[18May2025 20:21:33.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has completed the challenge [Just a Flesh Wound]
+[18May2025 20:23:36.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
+[18May2025 20:24:15.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10395, l='ServerLevel[world]', x=82.58, y=76.00, z=2748.64] died, message: 'Villager was slain by Zombie'
+[18May2025 20:24:24.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
+[18May2025 20:26:44.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doffe lost connection: Disconnected
+[18May2025 20:26:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe left the game
+[18May2025 20:27:26.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doffe[/172.29.160.205:59025] logged in with entity id 11079 at (782.8918647748469, 49.0, 2936.673621292858)
+[18May2025 20:27:26.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe joined the game
+[18May2025 20:28:52.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to 39.500000, 122.500000, 2819.500000]
+[18May2025 20:28:55.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
+[18May2025 20:29:27.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Not the Olympic Type]

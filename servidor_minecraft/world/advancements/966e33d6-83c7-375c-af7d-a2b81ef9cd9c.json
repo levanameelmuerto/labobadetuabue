@@ -372,7 +372,8 @@
       "cooked_beef": "2025-05-18 03:55:11 +0000",
       "beef": "2025-05-18 19:33:25 +0000",
       "porkchop": "2025-05-18 02:58:29 +0000",
-      "bread": "2025-05-18 03:10:07 +0000"
+      "bread": "2025-05-18 03:10:07 +0000",
+      "rotten_flesh": "2025-05-18 20:08:23 +0000"
     },
     "done": false
   },
@@ -2987,7 +2988,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "illager_head": "2025-05-18 19:41:47 +0000"
+      "illager_head": "2025-05-18 19:41:47 +0000",
+      "zombie_head": "2025-05-18 20:08:07 +0000"
     },
     "done": false
   },
@@ -3066,6 +3068,78 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-18 19:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-18 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-05-18 20:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-18 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-18 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-18 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-18 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-18 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-18 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-18 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-18 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-18 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-18 20:13:11 +0000"
     },
     "done": true
   },
