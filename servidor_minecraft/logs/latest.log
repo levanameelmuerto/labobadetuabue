@@ -997,3 +997,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 04:01:20.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Spectator Mode]
 [18May2025 04:04:25.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doffe lost connection: Disconnected
 [18May2025 04:04:25.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe left the game
+[18May2025 04:06:59.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Survival Mode]
+[18May2025 04:07:08.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Spectator Mode]
+[18May2025 04:08:04.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Survival Mode]
+[18May2025 04:15:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Diamonds!]
