@@ -3151,8 +3151,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-18 21:11:29 +0000",
       "minecraft:nether_wastes": "2025-05-18 20:44:49 +0000",
-      "minecraft:basalt_deltas": "2025-05-18 20:50:01 +0000"
+      "minecraft:basalt_deltas": "2025-05-18 20:50:01 +0000",
+      "minecraft:warped_forest": "2025-05-18 21:11:34 +0000"
     },
     "done": false
   },
@@ -3255,6 +3257,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-18 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-18 21:11:47 +0000"
     },
     "done": true
   },
