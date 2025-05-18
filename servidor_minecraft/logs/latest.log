@@ -194,3 +194,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 20:47:40.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Ol' Betsy]
 [18May2025 20:47:52.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Take Aim]
 [18May2025 20:50:26.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Gamerule keepInventory is now set to: true]
+[18May2025 20:51:55.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Spectator Mode]
+[18May2025 20:52:18.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Survival Mode]
+[18May2025 20:52:50.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Spectator Mode]
+[18May2025 20:54:29.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 16.500000, 128.500000, 331.500000]
+[18May2025 20:56:16.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
+[18May2025 20:58:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
+[18May2025 20:59:45.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18647, l='ServerLevel[world]', x=26.30, y=92.00, z=2814.51] died, message: 'Villager was slain by Zombie'
+[18May2025 20:59:48.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18648, l='ServerLevel[world]', x=26.70, y=92.00, z=2814.70] died, message: 'Farmer was slain by Zombie Villager'
