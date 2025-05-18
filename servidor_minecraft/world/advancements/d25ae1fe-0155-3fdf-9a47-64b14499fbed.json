@@ -822,6 +822,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-18 04:08:08 +0000",
+      "minecraft:magma_cube": "2025-05-18 05:12:34 +0000",
       "minecraft:spider": "2025-05-18 04:22:09 +0000",
       "minecraft:creeper": "2025-05-18 03:06:17 +0000",
       "minecraft:cave_spider": "2025-05-18 04:21:57 +0000",
@@ -1225,6 +1226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-18 05:13:07 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/lapis_lazuli_basic_shield": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-18 03:19:08 +0000"
@@ -1455,9 +1462,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-05-18 04:57:32 +0000"
+      "minecraft:crimson_forest": "2025-05-18 05:11:53 +0000",
+      "minecraft:nether_wastes": "2025-05-18 04:57:32 +0000",
+      "minecraft:soul_sand_valley": "2025-05-18 05:14:15 +0000",
+      "minecraft:basalt_deltas": "2025-05-18 05:12:13 +0000",
+      "minecraft:warped_forest": "2025-05-18 05:11:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "spartanweaponry:recipes/golden_battleaxe": {
     "criteria": {
@@ -1627,6 +1638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-18 05:11:11 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-05-18 04:58:50 +0000"
@@ -1699,6 +1716,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-18 05:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 04:08:30 +0000"
@@ -1768,6 +1791,12 @@
   "spartanweaponry:recipes/combat/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-05-18 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-18 05:11:11 +0000"
     },
     "done": true
   },
@@ -1993,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-18 05:14:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-05-18 03:16:17 +0000"
@@ -2014,6 +2049,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-18 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-18 05:10:13 +0000"
     },
     "done": true
   },
@@ -2044,6 +2085,12 @@
   "spartanweaponry:recipes/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-18 05:10:13 +0000"
     },
     "done": true
   },
@@ -2191,6 +2238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-18 05:10:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2025-05-18 03:26:24 +0000"
@@ -2200,6 +2253,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-18 04:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-18 05:10:13 +0000"
     },
     "done": true
   },
@@ -2224,6 +2283,12 @@
   "spartanweaponry:recipes/wooden_club": {
     "criteria": {
       "has_wood_log": "2025-05-18 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-18 05:10:13 +0000"
     },
     "done": true
   },
@@ -2293,9 +2358,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-05-18 05:10:13 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
     "criteria": {
       "has_diamond_gem": "2025-05-18 04:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-18 05:10:13 +0000"
     },
     "done": true
   },
@@ -2647,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-18 05:14:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-05-18 04:27:08 +0000"
@@ -2827,6 +2910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-18 05:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 04:08:30 +0000"
@@ -2992,6 +3081,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-18 04:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-18 05:10:30 +0000"
     },
     "done": true
   },
