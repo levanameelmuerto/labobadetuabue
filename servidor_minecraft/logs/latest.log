@@ -985,3 +985,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 03:46:27.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set Doffe's game mode to Spectator Mode]
 [18May2025 03:46:36.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set Doffe's game mode to Survival Mode]
 [18May2025 03:54:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Doffe
+[18May2025 03:56:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [En Garde!]
+[18May2025 03:56:49.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [En Garde!]
+[18May2025 03:57:52.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 18.500000, -27.500000, 2554.500000]
+[18May2025 03:58:08.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 03:58:17.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Diamonds!]
+[18May2025 03:58:48.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doffe lost connection: Disconnected
+[18May2025 03:58:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe left the game
+[18May2025 04:00:05.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Doffe[/172.29.160.205:63705] logged in with entity id 7257 at (-10.68863452443444, -45.0, 2544.3267891315636)
+[18May2025 04:00:05.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe joined the game
+[18May2025 04:01:20.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Spectator Mode]
+[18May2025 04:04:25.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Doffe lost connection: Disconnected
+[18May2025 04:04:25.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe left the game
