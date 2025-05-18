@@ -1207,6 +1207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 03:21:26 +0000"
@@ -1240,6 +1246,12 @@
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-18 04:39:19 +0000"
     },
     "done": true
   },
@@ -1300,6 +1312,12 @@
   "spartanweaponry:recipes/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2025-05-18 03:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-18 04:45:36 +0000"
     },
     "done": true
   },
@@ -1447,6 +1465,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 04:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 04:08:30 +0000"
@@ -1480,6 +1504,12 @@
   "spartanweaponry:recipes/iron_halberd": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 04:53:25 +0000"
     },
     "done": true
   },
@@ -1603,6 +1633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/large_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-05-18 04:15:02 +0000"
@@ -1630,6 +1666,12 @@
   "spartanweaponry:recipes/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },
@@ -1666,6 +1708,12 @@
   "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-05-18 03:17:45 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 04:53:25 +0000"
     },
     "done": true
   },
@@ -1714,6 +1762,12 @@
   "spartanweaponry:recipes/wooden_pike": {
     "criteria": {
       "has_wood": "2025-05-18 03:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },
@@ -1837,15 +1891,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-18 04:40:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-05-18 03:16:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-18 04:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-18 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },
@@ -1873,6 +1945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 03:30:21 +0000"
@@ -1882,6 +1960,12 @@
   "spartanweaponry:recipes/iron_parrying_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },
@@ -1906,6 +1990,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-18 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },
@@ -2089,6 +2179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 03:26:23 +0000"
@@ -2122,6 +2218,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-18 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },
@@ -2182,6 +2284,12 @@
   "spartanweaponry:recipes/stone_lance": {
     "criteria": {
       "has_cobblestone": "2025-05-18 03:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },
@@ -2371,6 +2479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 03:21:26 +0000"
@@ -2467,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-18 04:53:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_heavy_crossbow": {
     "criteria": {
       "has_copper_ingot": "2025-05-18 03:26:24 +0000"
@@ -2542,6 +2662,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 03:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },
@@ -2647,6 +2773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-18 04:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 04:08:30 +0000"
@@ -2710,6 +2842,12 @@
   "spartanweaponry:recipes/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 03:26:23 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 04:53:25 +0000"
     },
     "done": true
   },
@@ -2815,6 +2953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 04:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-18 04:15:02 +0000"
@@ -2872,6 +3016,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-05-18 03:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-18 04:49:40 +0000"
     },
     "done": true
   },

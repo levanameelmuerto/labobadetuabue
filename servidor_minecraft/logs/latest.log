@@ -1007,3 +1007,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 04:25:50.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
 [18May2025 04:26:51.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Survival Mode]
 [18May2025 04:31:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Creative Mode]
+[18May2025 04:45:36.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Suit Up]
+[18May2025 04:53:25.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Ice Bucket Challenge]
+[18May2025 04:55:42.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10810, l='ServerLevel[world]', x=26.70, y=92.00, z=2814.70] died, message: 'Nitwit was slain by Zombie'
+[18May2025 04:55:47.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10809, l='ServerLevel[world]', x=26.70, y=92.00, z=2814.70] died, message: 'Villager was slain by Zombie Villager'

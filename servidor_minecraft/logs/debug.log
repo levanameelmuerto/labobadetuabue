@@ -3067,3 +3067,59 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 04:31:23.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Creative Mode]
 [18May2025 04:35:30.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18May2025 04:35:30.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 04:39:18.505] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:40:30.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 04:40:30.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 04:45:12.150] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:13.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:14.163] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:15.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:16.205] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:17.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:18.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:19.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:19.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:20.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:21.146] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:21.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:22.546] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:23.195] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:23.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:24.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:25.144] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:25.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:26.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:27.195] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:27.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:28.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:29.296] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:29.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:30.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 04:45:30.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 04:45:30.647] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:31.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:31.994] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:32.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:33.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:34.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:34.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:35.593] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:45:36.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Suit Up]
+[18May2025 04:48:32.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:48:33.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:48:33.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:48:35.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:48:35.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:48:36.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:49:49.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:49:49.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:49:50.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:49:50.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:50:30.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 04:50:30.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 04:51:41.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 04:53:25.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Ice Bucket Challenge]
+[18May2025 04:55:30.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 04:55:30.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 04:55:42.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10810, l='ServerLevel[world]', x=26.70, y=92.00, z=2814.70] died, message: 'Nitwit was slain by Zombie'
+[18May2025 04:55:47.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10809, l='ServerLevel[world]', x=26.70, y=92.00, z=2814.70] died, message: 'Villager was slain by Zombie Villager'
