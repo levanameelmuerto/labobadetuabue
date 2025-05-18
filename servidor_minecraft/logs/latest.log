@@ -187,3 +187,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 20:34:58.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
 [18May2025 20:35:16.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
 [18May2025 20:35:46.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Teleported Doffe to AtroxX6]
+[18May2025 20:43:34.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
+[18May2025 20:44:35.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to Doffe]
+[18May2025 20:44:47.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [We Need to Go Deeper]
+[18May2025 20:44:49.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[18May2025 20:47:40.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Ol' Betsy]
+[18May2025 20:47:52.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [Take Aim]
+[18May2025 20:50:26.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Gamerule keepInventory is now set to: true]

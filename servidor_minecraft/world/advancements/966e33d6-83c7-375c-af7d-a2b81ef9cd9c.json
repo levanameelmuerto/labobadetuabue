@@ -372,6 +372,7 @@
       "cooked_beef": "2025-05-18 03:55:11 +0000",
       "beef": "2025-05-18 19:33:25 +0000",
       "porkchop": "2025-05-18 02:58:29 +0000",
+      "mutton": "2025-05-18 20:40:39 +0000",
       "bread": "2025-05-18 03:10:07 +0000",
       "rotten_flesh": "2025-05-18 20:08:23 +0000"
     },
@@ -868,7 +869,9 @@
       "minecraft:pillager": "2025-05-18 19:36:17 +0000",
       "minecraft:skeleton": "2025-05-18 03:58:13 +0000",
       "minecraft:creeper": "2025-05-18 19:29:23 +0000",
+      "minecraft:witch": "2025-05-18 20:43:58 +0000",
       "minecraft:cave_spider": "2025-05-18 19:20:09 +0000",
+      "minecraft:piglin": "2025-05-18 20:47:27 +0000",
       "minecraft:zombie": "2025-05-18 03:09:39 +0000",
       "minecraft:zombie_villager": "2025-05-18 19:04:29 +0000"
     },
@@ -3143,9 +3146,28 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-18 20:44:49 +0000",
+      "minecraft:basalt_deltas": "2025-05-18 20:50:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-18 20:44:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-05-18 20:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-18 20:47:52 +0000"
     },
     "done": true
   },
@@ -3155,9 +3177,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-18 20:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-18 20:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-05-18 20:29:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-18 20:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-18 20:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-18 20:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-18 20:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-18 20:48:26 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/quartz_dust_from_gem": {
+    "criteria": {
+      "has_quartz_gem": "2025-05-18 20:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-18 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-18 20:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-18 20:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-18 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-18 20:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-18 20:50:14 +0000"
     },
     "done": true
   },
