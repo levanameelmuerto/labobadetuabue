@@ -2191,6 +2191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-18 04:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 03:21:26 +0000"
@@ -2488,6 +2494,12 @@
   "spartanweaponry:recipes/diamond_longsword": {
     "criteria": {
       "has_diamond": "2025-05-18 04:15:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-18 04:27:08 +0000"
     },
     "done": true
   },
@@ -2866,6 +2878,12 @@
   "spartanweaponry:recipes/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-05-18 03:16:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-18 04:27:08 +0000"
     },
     "done": true
   },
