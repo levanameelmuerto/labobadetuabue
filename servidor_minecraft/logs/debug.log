@@ -3123,3 +3123,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 04:55:30.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18May2025 04:55:42.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10810, l='ServerLevel[world]', x=26.70, y=92.00, z=2814.70] died, message: 'Nitwit was slain by Zombie'
 [18May2025 04:55:47.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10809, l='ServerLevel[world]', x=26.70, y=92.00, z=2814.70] died, message: 'Villager was slain by Zombie Villager'
+[18May2025 04:57:32.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [We Need to Go Deeper]
+[18May2025 05:00:30.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 05:00:30.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 05:05:30.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 05:05:30.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
