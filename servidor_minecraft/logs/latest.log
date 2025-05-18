@@ -1024,3 +1024,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 05:24:04.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22671, l='ServerLevel[world]', x=36.95, y=121.00, z=2833.60] died, message: 'Farmer was slain by AtroxX6'
 [18May2025 05:24:06.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22698, l='ServerLevel[world]', x=36.57, y=120.00, z=2828.91] died, message: 'Farmer was slain by AtroxX6'
 [18May2025 05:29:42.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
+[18May2025 05:36:54.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has completed the challenge [Serious Dedication]
+[18May2025 05:42:16.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Survival Mode]
+[18May2025 05:43:10.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set own game mode to Creative Mode]

@@ -594,7 +594,8 @@
     "criteria": {
       "cooked_porkchop": "2025-05-18 02:29:17 +0000",
       "cooked_mutton": "2025-05-18 02:29:59 +0000",
-      "cooked_beef": "2025-05-18 03:30:57 +0000"
+      "cooked_beef": "2025-05-18 03:30:57 +0000",
+      "carrot": "2025-05-18 05:39:54 +0000"
     },
     "done": false
   },
@@ -2073,6 +2074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-18 05:37:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_greatsword": {
     "criteria": {
       "has_copper_ingot": "2025-05-18 03:26:24 +0000"
@@ -3171,6 +3178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-18 05:37:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2025-05-18 03:16:17 +0000"
@@ -3192,6 +3205,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-18 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-05-18 05:36:54 +0000"
     },
     "done": true
   },
