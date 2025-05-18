@@ -202,3 +202,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 20:58:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 31.500000, 120.500000, 2823.500000]
 [18May2025 20:59:45.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18647, l='ServerLevel[world]', x=26.30, y=92.00, z=2814.51] died, message: 'Villager was slain by Zombie'
 [18May2025 20:59:48.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18648, l='ServerLevel[world]', x=26.70, y=92.00, z=2814.70] died, message: 'Farmer was slain by Zombie Villager'
+[18May2025 21:06:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Local Brewery]
+[18May2025 21:08:36.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Doffe has made the advancement [A Terrible Fortress]
+[18May2025 21:08:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Survival Mode]
+[18May2025 21:09:51.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Doffe: Set own game mode to Spectator Mode]
+[18May2025 21:10:41.248] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19878, l='ServerLevel[world]', x=88.50, y=82.55, z=2773.51] died, message: 'Villager suffocated in a wall'
