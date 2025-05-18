@@ -1019,3 +1019,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 05:14:15.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has completed the challenge [Hot Tourist Destinations]
 [18May2025 05:15:21.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to -173.500000, 60.500000, 481.500000]
 [18May2025 05:16:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [A Terrible Fortress]
+[18May2025 05:19:55.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 has made the advancement [Into Fire]
+[18May2025 05:22:05.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Teleported AtroxX6 to 16.500000, 128.500000, 331.500000]
+[18May2025 05:24:04.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22671, l='ServerLevel[world]', x=36.95, y=121.00, z=2833.60] died, message: 'Farmer was slain by AtroxX6'
+[18May2025 05:24:06.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/22698, l='ServerLevel[world]', x=36.57, y=120.00, z=2828.91] died, message: 'Farmer was slain by AtroxX6'
