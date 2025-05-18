@@ -2772,3 +2772,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 03:44:43.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Gave 1 [Copper Backpack] to AtroxX6]
 [18May2025 03:45:18.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Gave 1 [Copper Backpack] to AtroxX6]
 [18May2025 03:45:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Gave 1 [Copper Backpack] to AtroxX6]
+[18May2025 03:45:30.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:45:30.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:46:27.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set Doffe's game mode to Spectator Mode]
+[18May2025 03:46:36.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set Doffe's game mode to Survival Mode]
+[18May2025 03:49:52.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 03:50:30.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 03:50:30.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 03:50:48.452] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 03:54:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Doffe
+[18May2025 03:55:04.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 03:55:24.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18May2025 03:55:29.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

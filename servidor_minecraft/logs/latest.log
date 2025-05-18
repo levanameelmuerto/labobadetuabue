@@ -982,3 +982,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 03:44:43.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Gave 1 [Copper Backpack] to AtroxX6]
 [18May2025 03:45:18.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Gave 1 [Copper Backpack] to AtroxX6]
 [18May2025 03:45:19.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Gave 1 [Copper Backpack] to AtroxX6]
+[18May2025 03:46:27.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set Doffe's game mode to Spectator Mode]
+[18May2025 03:46:36.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AtroxX6: Set Doffe's game mode to Survival Mode]
+[18May2025 03:54:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AtroxX6 was slain by Doffe
